@@ -12,7 +12,7 @@ This switcher mod will enable you to switch the role of the expansion controller
 
 <img src="./pics/switcher.jpg" width=400>
 
-Details are provided in the Wiki, separated by console models and motherboard revisions.
+Details are provided in the [Project Wiki](https://github.com/jeffqchen/Famicom-Expansion-Port-Switcher/wiki), separated by console models and motherboard revisions.
 
 -----
 ## Special Thanks
