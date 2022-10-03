@@ -1,6 +1,7 @@
 # Famicom Expansion Port Switcher Mod
 
-<img src="./pics/front_expansion.jpg" width=400>
+<img src="./pics/title.jpg" width=800>
+
 
 The expansion ports on the Japanese Famicom consoles have a problem - some western games are incompatible with the controllers connected to this port, due to the fact that this expansion port did not exist on the NES, and therefore was ignored by some devs.
 
