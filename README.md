@@ -19,7 +19,7 @@ Significant Titles Affected:
 - Tetris (Tengen)
 - Zelda II - The Adventure of Link
 
-I created the [FamiCoun](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter) and the [TwinDiamond](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) a few years ago and both suffered from this design oversight by Nintendo. So it is only natural for me to take matters into my own hands to fix it.
+I created the [FamiCoun](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter) and the [TwinDiamond](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) a few years ago and both suffered from this design oversight by these devs. So it is only natural for me to take matters into my own hands to fix it.
 
 <img src="./pics/famicoun.jpg" height=200><img src="./pics/twindiamond.jpg" height=200>
 
