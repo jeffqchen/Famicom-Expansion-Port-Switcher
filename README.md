@@ -2,7 +2,7 @@
 
 <img src="./pics/front_expansion.jpg" width=400>
 
-The expansion ports on the Japanese Famicom consoles have a problem - many North American games are incompatible with the controllers connected to this port, due to the fact that this expansion port did not exist on the NES.
+The expansion ports on the Japanese Famicom consoles have a problem - some western games are incompatible with the controllers connected to this port, due to the fact that this expansion port did not exist on the NES, and therefore was ignored by some devs.
 
 Significant Titles Affected:
 - Arkanoid II
